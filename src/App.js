@@ -62,7 +62,7 @@ function App() {
       <header className="text-white py-28 text-center relative overflow-hidden">
 
         <img
-          src="/hero-background.jpg"
+          src="/images/hero-background.jpg"
           alt="Background"
           className="absolute inset-0 w-full h-full object-cover"
         />
@@ -72,7 +72,7 @@ function App() {
 
           <div className="mx-auto mb-8 w-52 h-52">
             <img
-              src="/profile.jpg"
+              src="/images/profile.jpg"
               alt="Marcelo Profile"
               className="w-full h-full object-cover rounded-full border-8 border-white/30 shadow-2xl"
             />

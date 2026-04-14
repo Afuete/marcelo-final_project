@@ -10,7 +10,7 @@ const AboutMe = () => {
       <div className="flex flex-col md:flex-row gap-10 items-center">
         <div className="w-64 h-64 flex-shrink-0">
           <img 
-            src="/profile-photo.jpg"
+            src="/images/profile-photo.jpg"
             alt="Marcelo Profile"
             className="w-full h-full object-cover rounded-2xl shadow-lg border-4 border-white dark:border-gray-800"
           />
