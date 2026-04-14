@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marcelo-final_project/static/css/main.6fa2f4fb.css",
+    "main.js": "/marcelo-final_project/static/js/main.fb2fe76b.js",
+    "index.html": "/marcelo-final_project/index.html",
+    "main.6fa2f4fb.css.map": "/marcelo-final_project/static/css/main.6fa2f4fb.css.map",
+    "main.fb2fe76b.js.map": "/marcelo-final_project/static/js/main.fb2fe76b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fa2f4fb.css",
+    "static/js/main.fb2fe76b.js"
+  ]
+}
